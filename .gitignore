@@ -1,0 +1,8 @@
+.vs/*
+*.exe
+*.obj
+*.ipch
+Debug
+*.ilk
+*.pdb
+out/*
